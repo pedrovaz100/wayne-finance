@@ -77,7 +77,3 @@ npm install
 npm run dev
 ```
 
-### 🔹 Back-end (Spring Boot)
-
-```bash
-./mvnw spring-boot:run
